@@ -4,8 +4,31 @@ body{
     font-family: 'Ubuntu', sans-serif !important;
 }
 
+video {
+    width: 60%;
+    height: auto;
+    margin: auto;
+}
+
 .content {
     margin-top: 5vh;
+}
+
+.preview {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.article-title {
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.article {
+    margin: 10%;
 }
 
 .footer {
@@ -28,17 +51,12 @@ body{
     align-items: center;
 }
 
-.download {
-    background-color: #eee;
-    padding: 10px;
-}
-
 .my-navbar{
     box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
 }
 
 .carousel-inner .carousel-item img {
-    filter: grayscale(10%);
+    filter: grayscale(40%);
 }
 
 @media only screen and (min-width: 1080px) {
