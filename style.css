@@ -38,7 +38,7 @@ body{
 }
 
 .carousel-inner .carousel-item img {
-    filter: grayscale(60%);
+    filter: grayscale(10%);
 }
 
 @media only screen and (min-width: 1080px) {
