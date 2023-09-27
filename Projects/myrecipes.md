@@ -1,6 +1,6 @@
 <img src="../img/preview-sit120.png" alt="preview of My Recipes"/>
 
-[Back to projects](../README.html)
+[Back to projects](swanos.github.io)
 
 # My Recipes
 
@@ -10,4 +10,4 @@ While the style of *My Recipes* is quite minimalist, the main feature of this si
 
 [Go here](swanos.github.io/SIT120-IntroToWebApps) to preview the site on your own! *PS: The website looks much better on a computer than on smartphones.*
 
-[Back to projects](../README.html)
+[Back to projects](swanos.github.io)

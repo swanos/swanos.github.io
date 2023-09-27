@@ -2,7 +2,7 @@
 
 Hey, my name is **Swanny**. I am currently studyng Bachelor of Computer Science, graduating in late 2023.
 
-[Back to projects](./README.html)
+[Back to projects](swanos.github.io)
 
 ## Education
 
@@ -20,3 +20,4 @@ Aside programming, I also like playing music. I mainly play the **piano** which 
 
 **Here are some places you can reach me!**
 
+[Back to projects](swanos.github.io)

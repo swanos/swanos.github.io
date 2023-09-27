@@ -1,6 +1,6 @@
 <img src="../img/preview-dxball.png" alt="preview of DX Ball game"/>
 
-[Back to projects](../README.html)
+[Back to projects](swanos.github.io)
 
 # DX Ball
 
@@ -13,8 +13,8 @@ The game is made to be compatible with the arcade machines the company has obtai
 An addition to this game compared to similar games is a ball spawning on top of the screen every five seconds. This was added since the project is aimed to have no longer than three minutes for its duration. 
 
 Here is a recording of the game:
-<video controls>
+<video width="50%" controls>
     <source src="../video/dxball-demo.mp4" type="video/mp4">
 </video>
 
-[Back to projects](../README.html)
+[Back to projects](swanos.github.io)
