@@ -1,6 +1,6 @@
 <img src="../img/preview-dxball.png" alt="preview of DX Ball game"/>
 
-[Back to projects](swanos.github.io)
+[Back to projects](../swanos.github.io)
 
 # DX Ball
 
@@ -17,4 +17,4 @@ Here is a recording of the game:
     <source src="../video/dxball-demo.mp4" type="video/mp4">
 </video>
 
-[Back to projects](swanos.github.io)
+[Back to projects](../swanos.github.io)
