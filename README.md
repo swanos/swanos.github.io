@@ -15,7 +15,7 @@ In this page are some projects I have worked on. Alternatively, you can also vis
 
 - [My Recipes](Projects/myrecipes.html)
 
-  <img src="img/projects-sit120.png" alt="DX Ball game" width="100"/>
+  <img src="img/projects-sit120.jpeg" alt="My Recipes" width="100"/>
 
   A WebApp I created for one of my units using Vue. Be sure to try filtering ingredients on the search bar!
 
