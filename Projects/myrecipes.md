@@ -1,6 +1,6 @@
-<img src="../img/preview-sit120.png" alt="preview of My Recipes"/>
-
 [Back to projects](../swanos.github.io)
+
+<img src="../img/preview-sit120.png" alt="preview of My Recipes"/>
 
 # My Recipes
 
@@ -8,6 +8,6 @@ This is a demo recipes website I made for one of my units, where I learned to de
 
 While the style of *My Recipes* is quite minimalist, the main feature of this site is the search bar. A special thing about the search bar of this site is that you're able to filter in and also filter out ingredients in your search.
 
-[Go here](swanos.github.io/SIT120-IntroToWebApps) to preview the site on your own! *PS: The website looks much better on a computer than on smartphones.*
+[Go here](https://swanos.github.io/SIT120-IntroToWebApps){:target="_blank"} to preview the site on your own! *PS: The website looks much better on a computer than on smartphones.*
 
 [Back to projects](../swanos.github.io)

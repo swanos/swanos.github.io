@@ -7,6 +7,10 @@ In this page are some projects I have worked on. Alternatively, you can also vis
 # Projects
 
 **Check out what I have been working on**
+- [The Land of Our Abandoned Dreams](Projects/sit254.html)
+
+  An RPG horror game I worked on with 2 other team members for a game design assignment made on RPG Maker MV.
+
 - [DX Ball](Projects/dxball.html)
 
   <img src="img/projects-dxball.png" alt="DX Ball game" width="100"/>
@@ -19,6 +23,3 @@ In this page are some projects I have worked on. Alternatively, you can also vis
 
   A WebApp I created for one of my units using Vue. Be sure to try filtering ingredients on the search bar!
 
-- [The Land of Our Abandoned Dreams](Projects/sit254.html)
-
-  An RPG horror game I worked on with 2 other team members for a game design assignment.

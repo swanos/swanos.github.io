@@ -20,19 +20,19 @@ Aside programming, I also like playing music. I mainly play the **piano** which 
 
 **Here are some places you can reach me!**
 
-- [GitHub](https://github.com/swanos) <img src="img/github.png" alt="GitHub logo" width="20"/>
+- [GitHub](https://github.com/swanos){:target="_blank"} <img src="img/github.png" alt="GitHub logo" width="20"/>
 
   View my repositories to learn what I have been working on.
 
-- [Email](mailto:swanny.aurelli21@gmail.com) <img src="img/gmail.png" alt="Gmail logo" width="20"/>
+- [Email](mailto:swanny.aurelli21@gmail.com){:target="_blank"} <img src="img/gmail.png" alt="Gmail logo" width="20"/>
 
   Send me an email to [swanny.aurellia21@gmail.com](mailto:swanny.aurelli21@gmail.com).
 
-- [LinkedIn](https://www.linkedin.com/in/swannya/) <img src="img/linkedin.png" alt="LinkedIn logo" width="20"/>
+- [LinkedIn](https://www.linkedin.com/in/swannya/){:target="_blank"} <img src="img/linkedin.png" alt="LinkedIn logo" width="20"/>
 
   Network with me on LinkedIn.
 
-- [Instagram](https://www.instagram.com/swanny.angsa/) <img src="img/instagram.png" alt="Instagram logo" width="20"/>
+- [Instagram](https://www.instagram.com/swanny.angsa/){:target="_blank"} <img src="img/instagram.png" alt="Instagram logo" width="20"/>
 
   Follow me on Instagram if you want to be my friend :D 
 
