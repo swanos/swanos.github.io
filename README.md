@@ -9,6 +9,8 @@ In this page are some projects I have worked on. Alternatively, you can also vis
 **Check out what I have been working on**
 - [The Land of Our Abandoned Dreams](Projects/sit254.html)
 
+  <img src="img/projects-sit254.png" alt="The Land of Our Abandoned Dreams" width="100"/>
+
   An RPG horror game I worked on with 2 other team members for a game design assignment made on RPG Maker MV.
 
 - [DX Ball](Projects/dxball.html)
@@ -16,6 +18,12 @@ In this page are some projects I have worked on. Alternatively, you can also vis
   <img src="img/projects-dxball.png" alt="DX Ball game" width="100"/>
 
   An arcade game I worked on with my team at Thoth Tech using SplashKit, written using C++. 
+
+- [3D Model and Audio Asset Development](Projects/sit253.html)
+
+  <img src="img/projects-sit253.png" alt="Seal body 3D model" width="100"/>
+
+  A set of 3D models and audio that I created for one of my units, Content Creation for Interactive Experiences.
 
 - [My Recipes](Projects/myrecipes.html)
 
